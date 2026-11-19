@@ -1,0 +1,86 @@
+import { 
+  LayoutDashboard, 
+  Sparkles, 
+  FolderHeart, 
+  BarChart3, 
+  Edit3, 
+  Eye, 
+  FileText, 
+  Bot, 
+  Users, 
+  UserCog 
+} from 'lucide-react';
+
+export const SIDEBAR_NAV_ITEMS = [
+  {
+    id: 'dashboard',
+    label: 'Dashboard',
+    icon: LayoutDashboard,
+    moduleNum: '04',
+    description: 'Overview, analytics & quick actions',
+  },
+  {
+    id: 'generate',
+    label: 'Generate Design',
+    icon: Sparkles,
+    moduleNum: '05',
+    description: 'Conditioned cGAN Handloom Pattern Studio',
+    badge: 'cGAN',
+  },
+  {
+    id: 'my-designs',
+    label: 'My Designs',
+    icon: FolderHeart,
+    moduleNum: '12',
+    description: 'Saved patterns, collections & favorites',
+  },
+  {
+    id: 'analysis',
+    label: 'Design Analysis',
+    icon: BarChart3,
+    moduleNum: '10',
+    description: 'K-Means color clustering & symmetry evaluation',
+  },
+  {
+    id: 'editor',
+    label: 'Design Editor',
+    icon: Edit3,
+    moduleNum: '11',
+    description: 'Fine-tune repeat grids, motifs & mirror axes',
+  },
+  {
+    id: 'visualization',
+    label: 'Product Visualization',
+    icon: Eye,
+    moduleNum: '09',
+    description: '2D & 3D drape compositing on Sarees & Dupattas',
+  },
+  {
+    id: 'production',
+    label: 'Production Tools',
+    icon: FileText,
+    moduleNum: '13',
+    description: 'Weave specs, cost estimation & PDF export',
+  },
+  {
+    id: 'assistant',
+    label: 'AI Assistant',
+    icon: Bot,
+    moduleNum: '14',
+    description: 'Textile motif advice & regional color guide',
+  },
+  {
+    id: 'community',
+    label: 'Community',
+    icon: Users,
+    moduleNum: '15',
+    description: 'Artisan showcases, trending designs & likes',
+  },
+  {
+    id: 'settings',
+    label: 'Profile & Settings',
+    icon: UserCog,
+    moduleNum: '16',
+    description: 'Account settings, role preferences & security',
+  },
+];

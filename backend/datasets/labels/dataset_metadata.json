@@ -1,0 +1,902 @@
+[
+  {
+    "filename": "kanchipuram_peacock_01.jpg",
+    "relative_path": "images/kanchipuram/kanchipuram_peacock_01.jpg",
+    "region": "kanchipuram",
+    "motif": "peacock",
+    "symmetry": "bilateral",
+    "density": "high",
+    "palette": [
+      "#8b0000",
+      "#d4af37",
+      "#006400"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "kanchipuram_temple_02.jpg",
+    "relative_path": "images/kanchipuram/kanchipuram_temple_02.jpg",
+    "region": "kanchipuram",
+    "motif": "temple",
+    "symmetry": "bilateral",
+    "density": "medium",
+    "palette": [
+      "#7b1113",
+      "#f3e5ab",
+      "#4b0082"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "kanchipuram_mango_03.jpg",
+    "relative_path": "images/kanchipuram/kanchipuram_mango_03.jpg",
+    "region": "kanchipuram",
+    "motif": "mango",
+    "symmetry": "bilateral",
+    "density": "high",
+    "palette": [
+      "#8b0000",
+      "#d4af37",
+      "#006400"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "kanchipuram_peacock_04.jpg",
+    "relative_path": "images/kanchipuram/kanchipuram_peacock_04.jpg",
+    "region": "kanchipuram",
+    "motif": "peacock",
+    "symmetry": "bilateral",
+    "density": "medium",
+    "palette": [
+      "#7b1113",
+      "#f3e5ab",
+      "#4b0082"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "kanchipuram_temple_05.jpg",
+    "relative_path": "images/kanchipuram/kanchipuram_temple_05.jpg",
+    "region": "kanchipuram",
+    "motif": "temple",
+    "symmetry": "bilateral",
+    "density": "high",
+    "palette": [
+      "#8b0000",
+      "#d4af37",
+      "#006400"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "kanchipuram_mango_06.jpg",
+    "relative_path": "images/kanchipuram/kanchipuram_mango_06.jpg",
+    "region": "kanchipuram",
+    "motif": "mango",
+    "symmetry": "bilateral",
+    "density": "medium",
+    "palette": [
+      "#7b1113",
+      "#f3e5ab",
+      "#4b0082"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "kanchipuram_peacock_07.jpg",
+    "relative_path": "images/kanchipuram/kanchipuram_peacock_07.jpg",
+    "region": "kanchipuram",
+    "motif": "peacock",
+    "symmetry": "bilateral",
+    "density": "high",
+    "palette": [
+      "#8b0000",
+      "#d4af37",
+      "#006400"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "kanchipuram_temple_08.jpg",
+    "relative_path": "images/kanchipuram/kanchipuram_temple_08.jpg",
+    "region": "kanchipuram",
+    "motif": "temple",
+    "symmetry": "bilateral",
+    "density": "medium",
+    "palette": [
+      "#7b1113",
+      "#f3e5ab",
+      "#4b0082"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "kanchipuram_mango_09.jpg",
+    "relative_path": "images/kanchipuram/kanchipuram_mango_09.jpg",
+    "region": "kanchipuram",
+    "motif": "mango",
+    "symmetry": "bilateral",
+    "density": "high",
+    "palette": [
+      "#8b0000",
+      "#d4af37",
+      "#006400"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "kanchipuram_peacock_10.jpg",
+    "relative_path": "images/kanchipuram/kanchipuram_peacock_10.jpg",
+    "region": "kanchipuram",
+    "motif": "peacock",
+    "symmetry": "bilateral",
+    "density": "medium",
+    "palette": [
+      "#7b1113",
+      "#f3e5ab",
+      "#4b0082"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "pochampally_ikat_diamond_01.jpg",
+    "relative_path": "images/pochampally/pochampally_ikat_diamond_01.jpg",
+    "region": "pochampally",
+    "motif": "ikat_diamond",
+    "symmetry": "rotational",
+    "density": "high",
+    "palette": [
+      "#000080",
+      "#d4af37",
+      "#cc0000"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "pochampally_chevron_02.jpg",
+    "relative_path": "images/pochampally/pochampally_chevron_02.jpg",
+    "region": "pochampally",
+    "motif": "chevron",
+    "symmetry": "rotational",
+    "density": "medium",
+    "palette": [
+      "#1b263b",
+      "#8b0000",
+      "#f5f5f5"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "pochampally_geometric_grid_03.jpg",
+    "relative_path": "images/pochampally/pochampally_geometric_grid_03.jpg",
+    "region": "pochampally",
+    "motif": "geometric_grid",
+    "symmetry": "rotational",
+    "density": "high",
+    "palette": [
+      "#000080",
+      "#d4af37",
+      "#cc0000"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "pochampally_ikat_diamond_04.jpg",
+    "relative_path": "images/pochampally/pochampally_ikat_diamond_04.jpg",
+    "region": "pochampally",
+    "motif": "ikat_diamond",
+    "symmetry": "rotational",
+    "density": "medium",
+    "palette": [
+      "#1b263b",
+      "#8b0000",
+      "#f5f5f5"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "pochampally_chevron_05.jpg",
+    "relative_path": "images/pochampally/pochampally_chevron_05.jpg",
+    "region": "pochampally",
+    "motif": "chevron",
+    "symmetry": "rotational",
+    "density": "high",
+    "palette": [
+      "#000080",
+      "#d4af37",
+      "#cc0000"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "pochampally_geometric_grid_06.jpg",
+    "relative_path": "images/pochampally/pochampally_geometric_grid_06.jpg",
+    "region": "pochampally",
+    "motif": "geometric_grid",
+    "symmetry": "rotational",
+    "density": "medium",
+    "palette": [
+      "#1b263b",
+      "#8b0000",
+      "#f5f5f5"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "pochampally_ikat_diamond_07.jpg",
+    "relative_path": "images/pochampally/pochampally_ikat_diamond_07.jpg",
+    "region": "pochampally",
+    "motif": "ikat_diamond",
+    "symmetry": "rotational",
+    "density": "high",
+    "palette": [
+      "#000080",
+      "#d4af37",
+      "#cc0000"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "pochampally_chevron_08.jpg",
+    "relative_path": "images/pochampally/pochampally_chevron_08.jpg",
+    "region": "pochampally",
+    "motif": "chevron",
+    "symmetry": "rotational",
+    "density": "medium",
+    "palette": [
+      "#1b263b",
+      "#8b0000",
+      "#f5f5f5"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "pochampally_geometric_grid_09.jpg",
+    "relative_path": "images/pochampally/pochampally_geometric_grid_09.jpg",
+    "region": "pochampally",
+    "motif": "geometric_grid",
+    "symmetry": "rotational",
+    "density": "high",
+    "palette": [
+      "#000080",
+      "#d4af37",
+      "#cc0000"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "pochampally_ikat_diamond_10.jpg",
+    "relative_path": "images/pochampally/pochampally_ikat_diamond_10.jpg",
+    "region": "pochampally",
+    "motif": "ikat_diamond",
+    "symmetry": "rotational",
+    "density": "medium",
+    "palette": [
+      "#1b263b",
+      "#8b0000",
+      "#f5f5f5"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "patola_nari_kunj_01.jpg",
+    "relative_path": "images/patola/patola_nari_kunj_01.jpg",
+    "region": "patola",
+    "motif": "nari_kunj",
+    "symmetry": "rotational",
+    "density": "high",
+    "palette": [
+      "#cc0000",
+      "#d4af37",
+      "#006400"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "patola_paan_leaf_02.jpg",
+    "relative_path": "images/patola/patola_paan_leaf_02.jpg",
+    "region": "patola",
+    "motif": "paan_leaf",
+    "symmetry": "rotational",
+    "density": "medium",
+    "palette": [
+      "#a01414",
+      "#dcb43c",
+      "#141414"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "patola_chhabdi_03.jpg",
+    "relative_path": "images/patola/patola_chhabdi_03.jpg",
+    "region": "patola",
+    "motif": "chhabdi",
+    "symmetry": "rotational",
+    "density": "high",
+    "palette": [
+      "#cc0000",
+      "#d4af37",
+      "#006400"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "patola_nari_kunj_04.jpg",
+    "relative_path": "images/patola/patola_nari_kunj_04.jpg",
+    "region": "patola",
+    "motif": "nari_kunj",
+    "symmetry": "rotational",
+    "density": "medium",
+    "palette": [
+      "#a01414",
+      "#dcb43c",
+      "#141414"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "patola_paan_leaf_05.jpg",
+    "relative_path": "images/patola/patola_paan_leaf_05.jpg",
+    "region": "patola",
+    "motif": "paan_leaf",
+    "symmetry": "rotational",
+    "density": "high",
+    "palette": [
+      "#cc0000",
+      "#d4af37",
+      "#006400"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "patola_chhabdi_06.jpg",
+    "relative_path": "images/patola/patola_chhabdi_06.jpg",
+    "region": "patola",
+    "motif": "chhabdi",
+    "symmetry": "rotational",
+    "density": "medium",
+    "palette": [
+      "#a01414",
+      "#dcb43c",
+      "#141414"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "patola_nari_kunj_07.jpg",
+    "relative_path": "images/patola/patola_nari_kunj_07.jpg",
+    "region": "patola",
+    "motif": "nari_kunj",
+    "symmetry": "rotational",
+    "density": "high",
+    "palette": [
+      "#cc0000",
+      "#d4af37",
+      "#006400"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "patola_paan_leaf_08.jpg",
+    "relative_path": "images/patola/patola_paan_leaf_08.jpg",
+    "region": "patola",
+    "motif": "paan_leaf",
+    "symmetry": "rotational",
+    "density": "medium",
+    "palette": [
+      "#a01414",
+      "#dcb43c",
+      "#141414"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "patola_chhabdi_09.jpg",
+    "relative_path": "images/patola/patola_chhabdi_09.jpg",
+    "region": "patola",
+    "motif": "chhabdi",
+    "symmetry": "rotational",
+    "density": "high",
+    "palette": [
+      "#cc0000",
+      "#d4af37",
+      "#006400"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "patola_nari_kunj_10.jpg",
+    "relative_path": "images/patola/patola_nari_kunj_10.jpg",
+    "region": "patola",
+    "motif": "nari_kunj",
+    "symmetry": "rotational",
+    "density": "medium",
+    "palette": [
+      "#a01414",
+      "#dcb43c",
+      "#141414"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "baluchari_mythological_01.jpg",
+    "relative_path": "images/baluchari/baluchari_mythological_01.jpg",
+    "region": "baluchari",
+    "motif": "mythological",
+    "symmetry": "asymmetric",
+    "density": "high",
+    "palette": [
+      "#800020",
+      "#d4af37",
+      "#4b0082"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "baluchari_kalka_02.jpg",
+    "relative_path": "images/baluchari/baluchari_kalka_02.jpg",
+    "region": "baluchari",
+    "motif": "kalka",
+    "symmetry": "asymmetric",
+    "density": "medium",
+    "palette": [
+      "#640a1e",
+      "#d2a028",
+      "#8b4513"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "baluchari_dancing_figure_03.jpg",
+    "relative_path": "images/baluchari/baluchari_dancing_figure_03.jpg",
+    "region": "baluchari",
+    "motif": "dancing_figure",
+    "symmetry": "asymmetric",
+    "density": "high",
+    "palette": [
+      "#800020",
+      "#d4af37",
+      "#4b0082"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "baluchari_mythological_04.jpg",
+    "relative_path": "images/baluchari/baluchari_mythological_04.jpg",
+    "region": "baluchari",
+    "motif": "mythological",
+    "symmetry": "asymmetric",
+    "density": "medium",
+    "palette": [
+      "#640a1e",
+      "#d2a028",
+      "#8b4513"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "baluchari_kalka_05.jpg",
+    "relative_path": "images/baluchari/baluchari_kalka_05.jpg",
+    "region": "baluchari",
+    "motif": "kalka",
+    "symmetry": "asymmetric",
+    "density": "high",
+    "palette": [
+      "#800020",
+      "#d4af37",
+      "#4b0082"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "baluchari_dancing_figure_06.jpg",
+    "relative_path": "images/baluchari/baluchari_dancing_figure_06.jpg",
+    "region": "baluchari",
+    "motif": "dancing_figure",
+    "symmetry": "asymmetric",
+    "density": "medium",
+    "palette": [
+      "#640a1e",
+      "#d2a028",
+      "#8b4513"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "baluchari_mythological_07.jpg",
+    "relative_path": "images/baluchari/baluchari_mythological_07.jpg",
+    "region": "baluchari",
+    "motif": "mythological",
+    "symmetry": "asymmetric",
+    "density": "high",
+    "palette": [
+      "#800020",
+      "#d4af37",
+      "#4b0082"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "baluchari_kalka_08.jpg",
+    "relative_path": "images/baluchari/baluchari_kalka_08.jpg",
+    "region": "baluchari",
+    "motif": "kalka",
+    "symmetry": "asymmetric",
+    "density": "medium",
+    "palette": [
+      "#640a1e",
+      "#d2a028",
+      "#8b4513"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "baluchari_dancing_figure_09.jpg",
+    "relative_path": "images/baluchari/baluchari_dancing_figure_09.jpg",
+    "region": "baluchari",
+    "motif": "dancing_figure",
+    "symmetry": "asymmetric",
+    "density": "high",
+    "palette": [
+      "#800020",
+      "#d4af37",
+      "#4b0082"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "baluchari_mythological_10.jpg",
+    "relative_path": "images/baluchari/baluchari_mythological_10.jpg",
+    "region": "baluchari",
+    "motif": "mythological",
+    "symmetry": "asymmetric",
+    "density": "medium",
+    "palette": [
+      "#640a1e",
+      "#d2a028",
+      "#8b4513"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "sambalpuri_shankha_01.jpg",
+    "relative_path": "images/sambalpuri/sambalpuri_shankha_01.jpg",
+    "region": "sambalpuri",
+    "motif": "shankha",
+    "symmetry": "bilateral",
+    "density": "high",
+    "palette": [
+      "#8b0000",
+      "#ffffff",
+      "#000000"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "sambalpuri_chakra_02.jpg",
+    "relative_path": "images/sambalpuri/sambalpuri_chakra_02.jpg",
+    "region": "sambalpuri",
+    "motif": "chakra",
+    "symmetry": "bilateral",
+    "density": "medium",
+    "palette": [
+      "#b41414",
+      "#f0f0f0",
+      "#daa520"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "sambalpuri_padma_lotus_03.jpg",
+    "relative_path": "images/sambalpuri/sambalpuri_padma_lotus_03.jpg",
+    "region": "sambalpuri",
+    "motif": "padma_lotus",
+    "symmetry": "bilateral",
+    "density": "high",
+    "palette": [
+      "#8b0000",
+      "#ffffff",
+      "#000000"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "sambalpuri_shankha_04.jpg",
+    "relative_path": "images/sambalpuri/sambalpuri_shankha_04.jpg",
+    "region": "sambalpuri",
+    "motif": "shankha",
+    "symmetry": "bilateral",
+    "density": "medium",
+    "palette": [
+      "#b41414",
+      "#f0f0f0",
+      "#daa520"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "sambalpuri_chakra_05.jpg",
+    "relative_path": "images/sambalpuri/sambalpuri_chakra_05.jpg",
+    "region": "sambalpuri",
+    "motif": "chakra",
+    "symmetry": "bilateral",
+    "density": "high",
+    "palette": [
+      "#8b0000",
+      "#ffffff",
+      "#000000"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "sambalpuri_padma_lotus_06.jpg",
+    "relative_path": "images/sambalpuri/sambalpuri_padma_lotus_06.jpg",
+    "region": "sambalpuri",
+    "motif": "padma_lotus",
+    "symmetry": "bilateral",
+    "density": "medium",
+    "palette": [
+      "#b41414",
+      "#f0f0f0",
+      "#daa520"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "sambalpuri_shankha_07.jpg",
+    "relative_path": "images/sambalpuri/sambalpuri_shankha_07.jpg",
+    "region": "sambalpuri",
+    "motif": "shankha",
+    "symmetry": "bilateral",
+    "density": "high",
+    "palette": [
+      "#8b0000",
+      "#ffffff",
+      "#000000"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "sambalpuri_chakra_08.jpg",
+    "relative_path": "images/sambalpuri/sambalpuri_chakra_08.jpg",
+    "region": "sambalpuri",
+    "motif": "chakra",
+    "symmetry": "bilateral",
+    "density": "medium",
+    "palette": [
+      "#b41414",
+      "#f0f0f0",
+      "#daa520"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "sambalpuri_padma_lotus_09.jpg",
+    "relative_path": "images/sambalpuri/sambalpuri_padma_lotus_09.jpg",
+    "region": "sambalpuri",
+    "motif": "padma_lotus",
+    "symmetry": "bilateral",
+    "density": "high",
+    "palette": [
+      "#8b0000",
+      "#ffffff",
+      "#000000"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "sambalpuri_shankha_10.jpg",
+    "relative_path": "images/sambalpuri/sambalpuri_shankha_10.jpg",
+    "region": "sambalpuri",
+    "motif": "shankha",
+    "symmetry": "bilateral",
+    "density": "medium",
+    "palette": [
+      "#b41414",
+      "#f0f0f0",
+      "#daa520"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "mangalagiri_nizam_border_01.jpg",
+    "relative_path": "images/mangalagiri/mangalagiri_nizam_border_01.jpg",
+    "region": "mangalagiri",
+    "motif": "nizam_border",
+    "symmetry": "bilateral",
+    "density": "high",
+    "palette": [
+      "#006b3a",
+      "#d4af37",
+      "#ffffff"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "mangalagiri_temple_stripe_02.jpg",
+    "relative_path": "images/mangalagiri/mangalagiri_temple_stripe_02.jpg",
+    "region": "mangalagiri",
+    "motif": "temple_stripe",
+    "symmetry": "bilateral",
+    "density": "medium",
+    "palette": [
+      "#800020",
+      "#d4af37",
+      "#f5f0e6"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "mangalagiri_minimal_body_03.jpg",
+    "relative_path": "images/mangalagiri/mangalagiri_minimal_body_03.jpg",
+    "region": "mangalagiri",
+    "motif": "minimal_body",
+    "symmetry": "bilateral",
+    "density": "high",
+    "palette": [
+      "#006b3a",
+      "#d4af37",
+      "#ffffff"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "mangalagiri_nizam_border_04.jpg",
+    "relative_path": "images/mangalagiri/mangalagiri_nizam_border_04.jpg",
+    "region": "mangalagiri",
+    "motif": "nizam_border",
+    "symmetry": "bilateral",
+    "density": "medium",
+    "palette": [
+      "#800020",
+      "#d4af37",
+      "#f5f0e6"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "mangalagiri_temple_stripe_05.jpg",
+    "relative_path": "images/mangalagiri/mangalagiri_temple_stripe_05.jpg",
+    "region": "mangalagiri",
+    "motif": "temple_stripe",
+    "symmetry": "bilateral",
+    "density": "high",
+    "palette": [
+      "#006b3a",
+      "#d4af37",
+      "#ffffff"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "mangalagiri_minimal_body_06.jpg",
+    "relative_path": "images/mangalagiri/mangalagiri_minimal_body_06.jpg",
+    "region": "mangalagiri",
+    "motif": "minimal_body",
+    "symmetry": "bilateral",
+    "density": "medium",
+    "palette": [
+      "#800020",
+      "#d4af37",
+      "#f5f0e6"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "mangalagiri_nizam_border_07.jpg",
+    "relative_path": "images/mangalagiri/mangalagiri_nizam_border_07.jpg",
+    "region": "mangalagiri",
+    "motif": "nizam_border",
+    "symmetry": "bilateral",
+    "density": "high",
+    "palette": [
+      "#006b3a",
+      "#d4af37",
+      "#ffffff"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "mangalagiri_temple_stripe_08.jpg",
+    "relative_path": "images/mangalagiri/mangalagiri_temple_stripe_08.jpg",
+    "region": "mangalagiri",
+    "motif": "temple_stripe",
+    "symmetry": "bilateral",
+    "density": "medium",
+    "palette": [
+      "#800020",
+      "#d4af37",
+      "#f5f0e6"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "mangalagiri_minimal_body_09.jpg",
+    "relative_path": "images/mangalagiri/mangalagiri_minimal_body_09.jpg",
+    "region": "mangalagiri",
+    "motif": "minimal_body",
+    "symmetry": "bilateral",
+    "density": "high",
+    "palette": [
+      "#006b3a",
+      "#d4af37",
+      "#ffffff"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "mangalagiri_nizam_border_10.jpg",
+    "relative_path": "images/mangalagiri/mangalagiri_nizam_border_10.jpg",
+    "region": "mangalagiri",
+    "motif": "nizam_border",
+    "symmetry": "bilateral",
+    "density": "medium",
+    "palette": [
+      "#800020",
+      "#d4af37",
+      "#f5f0e6"
+    ],
+    "width": 128,
+    "height": 128
+  }
+]
